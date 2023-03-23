@@ -1,5 +1,7 @@
 
-## Configuração
+EM PROGRESSO
+
+<!--- + ## Configuração 
 
 Você pode modificar qualquer tipo de configuração em `src/config.ts`. NÃO altere nenhum arquivo no diretório `dist`, pois todos são arquivos gerados e não devem ser editados manualmente.
 
@@ -37,3 +39,4 @@ FEITA VIA REPLIT
 Por fim, depois de terminar de escrever seu bot, o primeiro passo é compilá-lo, para isso, abra o shell do lado direito e execute `npm run build`. Isso irá compilar seu código e prepará-lo para execução. Após isso, basta apertar o botão de executar e seu bot estará online! ![imagem](https://i.postimg.cc/dtbZkvKP/image.png)
 
 Você também pode ativar `Always On` para melhorar ainda mais sua experiência de hospedagem.
++ --->
