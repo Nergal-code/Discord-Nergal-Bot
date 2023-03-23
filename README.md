@@ -1,10 +1,3 @@
-## Configurar
-
-Em primeiro lugar, vá para [painel do desenvolvedor do Discord](https://discord.com/developers/applications/) e escolha o bot que deseja hospedar, vá para o guia bot e clique em `Regenerar token` e, em em seguida, copie o símbolo.
-
-Depois disso, vá para a guia semelhante a "Bloqueio" em replit e aqui, na `chave`, insira `DISCORD_TOKEN` e no campo `valor`, insira o token que você copiou do painel do desenvolvedor do Discord.
-![imagem](https://i.postimg.cc/k5tMPRpk/image.png)
----
 
 ## Configuração
 
