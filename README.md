@@ -32,6 +32,7 @@ Aqui, `command-name` é o nome do seu novo comando, `aliases` é um array de ali
 ---
 
 ## Hospedagem
+FEITA VIA REPLIT
 
 Por fim, depois de terminar de escrever seu bot, o primeiro passo é compilá-lo, para isso, abra o shell do lado direito e execute `npm run build`. Isso irá compilar seu código e prepará-lo para execução. Após isso, basta apertar o botão de executar e seu bot estará online! ![imagem](https://i.postimg.cc/dtbZkvKP/image.png)
 
