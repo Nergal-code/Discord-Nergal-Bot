@@ -1,6 +1,12 @@
 
 EM PROGRESSO
 
+Este projeto está em construção, em breve teremos novidades sobre seu funcionamento,
+
+Irei auxiliar a rodar ele no Replit sem necessidade de ter um banco de dados e servidor.
+
+será simples até então.
+
 <!--- + ## Configuração 
 
 Você pode modificar qualquer tipo de configuração em `src/config.ts`. NÃO altere nenhum arquivo no diretório `dist`, pois todos são arquivos gerados e não devem ser editados manualmente.
